@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyC12nuwu16CvNDmWC3p9XKDO8-2gfJfUGM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>214730627230</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.admin</string>
+	<key>PROJECT_ID</key>
+	<string>vortex-gaming-c2986</string>
+	<key>STORAGE_BUCKET</key>
+	<string>vortex-gaming-c2986.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:214730627230:ios:0aa1dc311fd28d5e2ec38f</string>
+</dict>
+</plist>
